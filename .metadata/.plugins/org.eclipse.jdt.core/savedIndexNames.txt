@@ -1,0 +1,20 @@
+INDEX VERSION 1.127+C:\Users\s.kupis\workspace\Design Patterns\.metadata\.plugins\org.eclipse.jdt.core
+2808038876.index
+1216129927.index
+1805393467.index
+1609844483.index
+3346257117.index
+128012794.index
+355229384.index
+4225916889.index
+605301152.index
+1472454861.index
+3166530643.index
+2978915207.index
+3724123426.index
+1916188960.index
+1560949485.index
+2583835242.index
+2540183978.index
+1923487134.index
+2465342510.index
