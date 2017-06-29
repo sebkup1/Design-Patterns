@@ -6,7 +6,7 @@ public class TestCloning {
 		// right subclasses of Animal
 
 		CloneFactory animalMaker = new CloneFactory();
-
+   
 		// Creates a new Sheep instance
 
 		Sheep sally = new Sheep();

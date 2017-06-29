@@ -1,0 +1,9 @@
+/ATMMachine.class
+/ATMProxy.class
+/ATMState.class
+/GetATMData.class
+/HasCard.class
+/HasPin.class
+/NoCard.class
+/NoCash.class
+/TestATMMachine.class

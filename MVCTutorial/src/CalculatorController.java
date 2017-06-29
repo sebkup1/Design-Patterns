@@ -16,7 +16,7 @@ public class CalculatorController {
 		// Tell the View that when ever the calculate button
 		// is clicked to execute the actionPerformed method
 		// in the CalculateListener inner class
-
+  
 		this.theView.addCalculateListener(new CalculateListener());
 	}
 
