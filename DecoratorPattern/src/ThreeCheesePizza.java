@@ -7,7 +7,7 @@
 // Through composition I'll be able to add new functionality
 // by writing new code rather than by changing current code
 
-public class ThreeCheesePizza extends Pizza {
+public class ThreeCheesePizza /*extends Pizza */{
 
 	private String description = "Mozzarella, Fontina, Parmesan Cheese Pizza";
 	private double cost = 10.50;

@@ -13,7 +13,7 @@ public class PlayWithRemote {
 		// When execute() is called on this command object
 		// it will execute the method on() in Television
 
-		TurnTVOn onCommand = new TurnTVOn(newDevice);
+		Command onCommand = new TurnTVOn(newDevice);
 
 		// Calling the execute() causes on() to execute in Television
 
@@ -27,7 +27,7 @@ public class PlayWithRemote {
 
 		// Now when execute() is called off() of Television executes
 
-		TurnTVOff offCommand = new TurnTVOff(newDevice);
+		Command offCommand = new TurnTVOff(newDevice);
 
 		// Calling the execute() causes off() to execute in Television
 
@@ -41,7 +41,7 @@ public class PlayWithRemote {
 
 		// Now when execute() is called volumeUp() of Television executes
 
-		TurnTVUp volUpCommand = new TurnTVUp(newDevice);
+		Command volUpCommand = new TurnTVUp(newDevice);
 
 		// Calling the execute() causes volumeUp() to execute in Television
 
@@ -72,7 +72,7 @@ public class PlayWithRemote {
 		// where a call to run execute() on this function will
 		// call off() for each device in the list
 
-		TurnItAllOff turnOffDevices = new TurnItAllOff(allDevices);
+		Command turnOffDevices = new TurnItAllOff(allDevices);
 
 		// This calls for execute() to run which calls for off() to
 		// run for every ElectronicDevice
